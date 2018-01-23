@@ -1,0 +1,23 @@
+<?php  include 'lang.php';  ?>
+Yii::t($language,'Save')
+Yii::t($language,'Cancel')
+Yii::t($language,'Delete')
+
+
+$language =Yii::app()->language;
+Yii::t($language,'Add')
+<?php echo Yii::t($language,'Title') ?>
+echo Yii::t($language,"There are no teachers")
+<?php echo Yii::t($language,'Details') ?>
+<?php echo Yii::t($language,'Name') ?>
+<?php echo Yii::t($language,'Update') ?>
+<?php echo Yii::t($language,'Manage') ?>
+
+
+Yii::t($language,'Time Tables')
+
+Yii::t($language,'are you sure you want activate')."
+Yii::t($language,'are you sure you want deactivate')."
+Yii::t($language,'are you sure you want delete')."
+Yii::t($language,"Deactivate")
+

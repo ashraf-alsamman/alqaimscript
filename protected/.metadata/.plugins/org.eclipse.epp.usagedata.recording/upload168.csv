@@ -1,0 +1,201 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115260037
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115260037
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115260038
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115262239
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115262241
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115262243
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115265542
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115265544
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115265547
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115270469
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115270471
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115270473
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1350115271512
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115272119
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115272122
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115272124
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115274278
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115274280
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115274280
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1350115276768
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115277507
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115281703
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115287228
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115288633
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115289459
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115293433
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115299312
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115299314
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115299316
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1350115300340
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115300963
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115307285
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115312842
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115312843
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115312844
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115313944
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115313945
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115313946
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1350115314908
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115315606
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115321893
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115326558
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115326559
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115326560
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115329262
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115329263
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115329264
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115330873
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115330875
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115330877
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115331964
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115331965
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115331967
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115333563
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115333564
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115333565
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115340125
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115340127
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115340128
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115343931
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115343933
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115343934
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115352191
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115352193
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115352196
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115354400
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115354400
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115354401
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115355506
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115355507
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115355508
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115366967
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115366969
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115366970
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115371876
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115371878
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115371879
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115376783
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115376784
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115376785
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1350115378980
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115379797
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115392621
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1350115394265
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115395251
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115395252
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115395253
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115401153
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115401154
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115401154
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115406653
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115406654
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115406655
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115410599
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115411267
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115411782
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115424133
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1350115427849
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115428599
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115428600
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115428602
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115450843
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115450844
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115450844
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115453548
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115453550
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115453552
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115454605
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115454607
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115454609
+error,log,,,"PHPCore plugin internal error",1350115456640
+error,log,,,"PHPCore plugin internal error",1350115456642
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115457266
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115457267
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115457268
+error,log,,,"PHPCore plugin internal error",1350115460376
+error,log,,,"PHPCore plugin internal error",1350115460378
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115461027
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115461028
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115461029
+error,log,,,"PHPCore plugin internal error",1350115461550
+error,log,,,"PHPCore plugin internal error",1350115461552
+error,log,,,"PHPCore plugin internal error",1350115462250
+error,log,,,"PHPCore plugin internal error",1350115462251
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115462680
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115462680
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115462681
+error,log,,,"PHPCore plugin internal error",1350115464648
+error,log,,,"PHPCore plugin internal error",1350115464650
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115464880
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115464881
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115464881
+error,log,,,"PHPCore plugin internal error",1350115465413
+error,log,,,"PHPCore plugin internal error",1350115465414
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115465981
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115465983
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115465984
+error,log,,,"PHPCore plugin internal error",1350115466558
+error,log,,,"PHPCore plugin internal error",1350115466559
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115467042
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115467042
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115467044
+error,log,,,"PHPCore plugin internal error",1350115469155
+error,log,,,"PHPCore plugin internal error",1350115469157
+error,log,,,"PHPCore plugin internal error",1350115470059
+error,log,,,"PHPCore plugin internal error",1350115470062
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115470918
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115470919
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115470920
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1350115481014
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1350115483502
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115484073
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115484074
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115484075
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115486819
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115486820
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115486820
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115488424
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115488425
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115488426
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115496691
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115496691
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115496693
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1350115500041
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1350115503332
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115583189
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115583190
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115583192
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115589235
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115589235
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115589236
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115591894
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115591895
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115591896
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115595636
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115595641
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115595642
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115598932
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115598936
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115598937
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115602736
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115602736
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115602737
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1350115604091
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1350115606589
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115607162
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115607164
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115607165
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.saveAll",1350115607959
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115609357
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350115705760
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1350115708138
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115708778
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115708778
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115708779
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115712642
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115712643
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=133, length=5>",1350115712644
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=47, length=5>",1350115714842
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=84, length=5>",1350115714843

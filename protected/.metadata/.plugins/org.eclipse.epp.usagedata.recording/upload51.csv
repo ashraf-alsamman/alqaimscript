@@ -1,0 +1,301 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.cut",1347540633103
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347540634584
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540637421
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540638278
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347540646041
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540652429
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540681739
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540684080
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540686599
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347540689588
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347540689616
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.selectAll",1347540691715
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1347540693628
+error,log,,,"PHPCore plugin internal error",1347540711542
+error,log,,,"PHPCore plugin internal error",1347540711545
+error,log,,,"PHPCore plugin internal error",1347540711548
+error,log,,,"PHPCore plugin internal error",1347540711551
+error,log,,,"PHPCore plugin internal error",1347540711555
+error,log,,,"PHPCore plugin internal error",1347540711558
+error,log,,,"PHPCore plugin internal error",1347540711560
+error,log,,,"PHPCore plugin internal error",1347540711563
+error,log,,,"PHPCore plugin internal error",1347540711568
+error,log,,,"PHPCore plugin internal error",1347540711572
+error,log,,,"PHPCore plugin internal error",1347540711576
+error,log,,,"PHPCore plugin internal error",1347540711582
+error,log,,,"PHPCore plugin internal error",1347540711586
+error,log,,,"PHPCore plugin internal error",1347540711588
+error,log,,,"PHPCore plugin internal error",1347540711591
+error,log,,,"PHPCore plugin internal error",1347540711594
+error,log,,,"PHPCore plugin internal error",1347540711598
+error,log,,,"PHPCore plugin internal error",1347540711601
+error,log,,,"PHPCore plugin internal error",1347540711604
+error,log,,,"PHPCore plugin internal error",1347540711608
+error,log,,,"PHPCore plugin internal error",1347540711610
+error,log,,,"PHPCore plugin internal error",1347540711614
+error,log,,,"PHPCore plugin internal error",1347540711617
+error,log,,,"PHPCore plugin internal error",1347540711619
+error,log,,,"PHPCore plugin internal error",1347540711622
+error,log,,,"PHPCore plugin internal error",1347540711625
+error,log,,,"PHPCore plugin internal error",1347540711628
+error,log,,,"PHPCore plugin internal error",1347540711631
+error,log,,,"PHPCore plugin internal error",1347540711634
+error,log,,,"PHPCore plugin internal error",1347540711637
+error,log,,,"PHPCore plugin internal error",1347540711640
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.saveAll",1347540720768
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540721564
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540732666
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347540734482
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347540745429
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540746028
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540750269
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.undo",1347540751897
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.undo",1347540752331
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.undo",1347540752934
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.undo",1347540753400
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347540761200
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540761734
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540773220
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1347540777921
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347540778833
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540779366
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540782627
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540783537
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540785342
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.undo",1347540786866
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.undo",1347540787292
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.undo",1347540787878
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.undo",1347540788497
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.undo",1347540789015
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1347540791748
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.saveAll",1347540793318
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540794345
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540802642
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1347540806053
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347540807720
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.delete",1347540814299
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347540816459
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540817219
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540847069
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540871221
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540982503
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540985350
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540992603
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347540992760
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347540992784
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347540994423
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347540994424
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540995496
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347540997200
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347540997321
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347540997352
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541000740
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541000741
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541002491
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541006973
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541007039
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541007064
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541008171
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541008171
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541009154
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541010782
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541010872
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541010895
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541015659
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541015660
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541017880
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541020393
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541020538
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541020564
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541026642
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541026642
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541028107
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541029729
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541029805
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541029829
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541033988
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541033988
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541034953
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541034982
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541037430
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541037431
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541038285
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541038303
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541042546
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541042546
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541044197
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541045679
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541045775
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541045801
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541052397
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541052397
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541054729
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541057350
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541057372
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541064133
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541064877
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541064897
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541067197
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541067197
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541068626
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541068659
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541071911
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541071911
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541074377
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541074404
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541075919
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541075919
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541077365
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541077404
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541078257
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541078259
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541084684
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541084706
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541085554
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541085555
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541086402
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541086424
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541089779
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541089779
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541092314
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541094613
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541099035
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541109249
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541109365
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541109392
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.edit.text.openLocalFile",1347541109394
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541123163
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541124963
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541135336
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541135362
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541141339
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541141367
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541142138
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541182910
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541182911
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541188472
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541188473
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541192403
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541192403
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.undo",1347541196706
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.undo",1347541197304
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347541209298
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541209901
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541213707
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347541218416
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541218969
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541223535
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347541232051
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541232786
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541237109
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541239648
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541242052
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541242203
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541242225
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.edit.text.openLocalFile",1347541242227
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541250574
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347541250575
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347541252858
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347542157712
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347542158790
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543015588
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543018785
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543018811
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543019894
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543036875
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543179951
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543185473
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543223697
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543223859
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543223897
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.edit.text.openLocalFile",1347543223897
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543226831
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543229112
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543229314
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543229340
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.edit.text.openLocalFile",1347543229340
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543253073
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543276314
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1347543292318
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543296142
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543296142
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543297143
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543297144
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543298010
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543299894
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543299927
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543302008
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347543302691
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1347543307829
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543312422
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543319673
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1347543323083
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347543324431
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543325327
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543480151
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543481726
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543708226
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543709384
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543713018
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347543719156
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543719939
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543740232
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543747294
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543754380
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1347543756787
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1347543758598
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543759599
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543781279
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347543782746
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544135289
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544140758
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544144948
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544147257
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544152504
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544152504
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544153732
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544155667
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544168048
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544170348
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544172231
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544186311
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544187389
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544198578
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544198634
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544200260
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544200448
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544202666
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544202710
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544204525
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544204557
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544204558
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544209122
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544212285
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1347544216223
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.saveAll",1347544217575
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544218442
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544236829
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544239298
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544241383
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544241383
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544246925
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544293059
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544293194
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544293215
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.edit.text.openLocalFile",1347544293217
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544295762
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544295762
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544297134
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544300574
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544300693
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544300723
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.edit.text.openLocalFile",1347544300724
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544307286
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1347544309472
+opened,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544309638
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544309663
+executed,command,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.edit.text.openLocalFile",1347544309664
+closed,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544310647
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544317099
+activated,editor,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.editor",1347544318193

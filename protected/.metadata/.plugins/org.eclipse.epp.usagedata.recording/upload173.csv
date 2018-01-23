@@ -1,0 +1,230 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=512, length=5>",1350121107272
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121111653
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121111654
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=43, length=5>",1350121111655
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=80, length=5>",1350121111656
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=151, length=5>",1350121111656
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=40>",1350121111658
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121111658
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=267, length=5>",1350121111659
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=305, length=5>",1350121111659
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=40>",1350121111660
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121111660
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=474, length=5>",1350121111661
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=512, length=5>",1350121111662
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.save",1350121116285
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121124538
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121124818
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121124819
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=43, length=5>",1350121124821
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=80, length=5>",1350121124822
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=151, length=5>",1350121124823
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=40>",1350121124824
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121124826
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=267, length=5>",1350121124827
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=305, length=5>",1350121124828
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=40>",1350121124829
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121124830
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=474, length=5>",1350121124830
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=512, length=5>",1350121124831
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.copy",1350121130939
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.edit.paste",1350121135484
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121136370
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121136371
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=43, length=5>",1350121136372
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=80, length=5>",1350121136372
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=151, length=5>",1350121136373
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=40>",1350121136373
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121136374
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=267, length=5>",1350121136375
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=305, length=5>",1350121136375
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=40>",1350121136376
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121136376
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=474, length=5>",1350121136377
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=512, length=5>",1350121136377
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=481, length=7>",1350121139253
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=481, length=7>",1350121139255
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=474, length=5>",1350121139405
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121139672
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121139672
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=43, length=5>",1350121139673
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=80, length=5>",1350121139674
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=151, length=5>",1350121139674
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=40>",1350121139675
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121139676
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=267, length=5>",1350121139676
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=305, length=5>",1350121139677
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=40>",1350121139678
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121139678
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=474, length=5>",1350121139679
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=512, length=5>",1350121139679
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=481, length=7>",1350121140953
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=481, length=7>",1350121140955
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=474, length=5>",1350121141106
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121141322
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121141322
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=43, length=5>",1350121141323
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=80, length=5>",1350121141324
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=151, length=5>",1350121141325
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=40>",1350121141325
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121141326
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=267, length=5>",1350121141327
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=305, length=5>",1350121141327
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=40>",1350121141328
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121141328
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=474, length=5>",1350121141329
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=512, length=5>",1350121141330
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=481, length=7>",1350121142998
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=481, length=7>",1350121143000
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=474, length=5>",1350121143108
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121145124
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121145125
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=43, length=5>",1350121145126
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=80, length=5>",1350121145127
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=151, length=5>",1350121145128
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=40>",1350121145129
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=242, length=14>",1350121145130
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=267, length=5>",1350121145131
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=305, length=5>",1350121145132
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=40>",1350121145134
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=449, length=14>",1350121145135
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=474, length=5>",1350121145136
+error,log,,,"org.eclipse.dltk.core.ModelException: AST node can not be found for the given source range: <offset=512, length=5>",1350121145137
+executed,command,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui.file.saveAll",1350121145278
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350121146001
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350121154731
+started,bundle,org.eclipse.dltk.rse.core,2.0.0.v20100115-2213,"org.eclipse.dltk.rse.core",1350121174234
+deactivated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350121174370
+started,bundle,org.eclipse.rse.core,3.1.100.v201003151933,"org.eclipse.rse.core",1350121174474
+started,bundle,org.eclipse.rse.services,3.2.0.v201006041352,"org.eclipse.rse.services",1350121174570
+activated,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350121174686
+closed,workbench,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"",1350121175096
+stopped,bundle,org.eclipse.compare.win32,1.0.100.I20100505-1245,"org.eclipse.compare.win32",1350121176423
+stopped,bundle,org.eclipse.dltk.testing,1.0.0.v20090914-1703,"org.eclipse.dltk.testing",1350121176504
+stopped,bundle,org.eclipse.php.server.ui,2.2.0.v20100616-1900,"org.eclipse.php.server.ui",1350121176504
+stopped,bundle,org.eclipse.php.debug.ui,2.2.0.v20100616-1900,"org.eclipse.php.debug.ui",1350121176504
+stopped,bundle,org.eclipse.dltk.debug.ui,2.0.0.v20100115-2213,"org.eclipse.dltk.debug.ui",1350121176559
+stopped,bundle,org.eclipse.dltk.formatter,2.0.0.v20100304-1959,"org.eclipse.dltk.formatter",1350121176578
+stopped,bundle,org.eclipse.dltk.rse.ui,2.0.0.v20100115-2213,"org.eclipse.dltk.rse.ui",1350121176603
+stopped,bundle,org.eclipse.dltk.validators.externalchecker,1.0.0.v20090803-1754,"org.eclipse.dltk.validators.externalchecker",1350121176603
+stopped,bundle,org.eclipse.dltk.validators.ui,2.0.0.v20091214-1712,"org.eclipse.dltk.validators.ui",1350121176603
+stopped,bundle,org.eclipse.php.debug.core,2.2.0.v20100616-1900,"org.eclipse.php.debug.core",1350121176603
+stopped,bundle,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui",1350121176603
+stopped,bundle,org.eclipse.dltk.ui,2.0.0.v20100603-0936,"org.eclipse.dltk.ui",1350121176603
+stopped,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20100513,"org.eclipse.equinox.p2.ui.sdk",1350121176627
+stopped,bundle,org.eclipse.wst.xsl.jaxp.debug.ui,1.0.100.v201004290328,"org.eclipse.wst.xsl.jaxp.debug.ui",1350121176726
+stopped,bundle,org.eclipse.jdt.debug.ui,3.5.0.v20100602-0830,"org.eclipse.jdt.debug.ui",1350121176726
+stopped,bundle,org.eclipse.jdt.ui,3.6.0.v20100602-1600,"org.eclipse.jdt.ui",1350121176726
+stopped,bundle,org.eclipse.rse.importexport,1.2.100.v201003010830,"org.eclipse.rse.importexport",1350121176811
+stopped,bundle,org.eclipse.rse.shells.ui,3.0.200.v201006041352,"org.eclipse.rse.shells.ui",1350121176844
+stopped,bundle,org.eclipse.rse.files.ui,3.1.100.v201005221100,"org.eclipse.rse.files.ui",1350121176890
+stopped,bundle,org.eclipse.rse.processes.ui,3.0.200.v201003010830,"org.eclipse.rse.processes.ui",1350121176967
+stopped,bundle,org.eclipse.wst.dtd.ui,1.0.500.v201004290328,"org.eclipse.wst.dtd.ui",1350121176967
+stopped,bundle,org.eclipse.wst.jsdt.web.ui,1.0.300.v201006030742,"org.eclipse.wst.jsdt.web.ui",1350121176967
+stopped,bundle,org.eclipse.wst.web.ui,1.1.400.v201004141630,"org.eclipse.wst.web.ui",1350121177062
+stopped,bundle,org.eclipse.wst.html.ui,1.0.500.v201006030742,"org.eclipse.wst.html.ui",1350121177062
+stopped,bundle,org.eclipse.wst.css.ui,1.0.500.v201004290328,"org.eclipse.wst.css.ui",1350121177062
+stopped,bundle,org.eclipse.wst.xsl.exslt.ui,1.0.0.v201006012005,"org.eclipse.wst.xsl.exslt.ui",1350121177120
+stopped,bundle,org.eclipse.wst.xsl.ui,1.1.0.v201004290328,"org.eclipse.wst.xsl.ui",1350121177154
+stopped,bundle,org.eclipse.wst.xml.xpath.ui,1.1.0.v201004290328,"org.eclipse.wst.xml.xpath.ui",1350121177163
+activated,perspective,org.eclipse.php.ui,,"org.eclipse.php.perspective",1350121259276
+started,bundle,org.eclipse.osgi,3.6.0.v20100517,"org.eclipse.osgi",1350121259278
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20100503,"org.eclipse.equinox.simpleconfigurator",1350121259292
+started,bundle,com.ibm.icu,4.2.1.v20100412,"com.ibm.icu",1350121259334
+started,bundle,org.eclipse.compare.core,3.5.100.I20100526-0800,"org.eclipse.compare.core",1350121259370
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20100505-1235,"org.eclipse.core.contenttype",1350121259371
+started,bundle,org.eclipse.core.databinding.observable,1.3.0.I20100601-0800,"org.eclipse.core.databinding.observable",1350121259423
+started,bundle,org.eclipse.core.expressions,3.4.200.v20100505,"org.eclipse.core.expressions",1350121259645
+started,bundle,org.eclipse.core.filebuffers,3.5.100.v20100520-0800,"org.eclipse.core.filebuffers",1350121259646
+started,bundle,org.eclipse.core.filesystem,1.3.0.v20100526-0737,"org.eclipse.core.filesystem",1350121259660
+started,bundle,org.eclipse.core.jobs,3.5.0.v20100515,"org.eclipse.core.jobs",1350121259661
+started,bundle,org.eclipse.core.net,1.2.100.I20100511-0800,"org.eclipse.core.net",1350121259667
+started,bundle,org.eclipse.core.resources,3.6.0.v20100526-0737,"org.eclipse.core.resources",1350121259668
+started,bundle,org.eclipse.core.runtime,3.6.0.v20100505,"org.eclipse.core.runtime",1350121259671
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1350121259677
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20100517,"org.eclipse.core.runtime.compatibility.auth",1350121259695
+started,bundle,org.eclipse.debug.core,3.6.0.v20100519,"org.eclipse.debug.core",1350121259696
+started,bundle,org.eclipse.debug.ui,3.6.0.v20100601-1530,"org.eclipse.debug.ui",1350121259697
+started,bundle,org.eclipse.dltk.core,2.0.0.v20100603-0936,"org.eclipse.dltk.core",1350121259728
+started,bundle,org.eclipse.dltk.core.index.sql,2.0.0.v20100616-2015,"org.eclipse.dltk.core.index.sql",1350121259729
+started,bundle,org.eclipse.dltk.launching,2.0.0.v20100524-0038,"org.eclipse.dltk.launching",1350121259751
+started,bundle,org.eclipse.dltk.ui,2.0.0.v20100603-0936,"org.eclipse.dltk.ui",1350121259767
+started,bundle,org.eclipse.emf.common,2.6.0.v20100614-1136,"org.eclipse.emf.common",1350121259768
+started,bundle,org.eclipse.emf.ecore,2.6.0.v20100614-1136,"org.eclipse.emf.ecore",1350121259854
+started,bundle,org.eclipse.emf.ecore.xmi,2.5.0.v20100521-1846,"org.eclipse.emf.ecore.xmi",1350121259877
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.0.R201005261100,"org.eclipse.epp.usagedata.gathering",1350121259878
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.0.R201005261100,"org.eclipse.epp.usagedata.recording",1350121259878
+started,bundle,org.eclipse.equinox.app,1.3.0.v20100512,"org.eclipse.equinox.app",1350121259885
+started,bundle,org.eclipse.equinox.common,3.6.0.v20100503,"org.eclipse.equinox.common",1350121259886
+started,bundle,org.eclipse.equinox.ds,1.2.0.v20100507,"org.eclipse.equinox.ds",1350121259905
+started,bundle,org.eclipse.equinox.event,1.2.0.v20100503,"org.eclipse.equinox.event",1350121259922
+started,bundle,org.eclipse.equinox.p2.core,2.0.0.v20100510,"org.eclipse.equinox.p2.core",1350121259934
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.200.v20100601,"org.eclipse.equinox.p2.directorywatcher",1350121259955
+started,bundle,org.eclipse.equinox.p2.engine,2.0.0.v20100606,"org.eclipse.equinox.p2.engine",1350121260006
+started,bundle,org.eclipse.equinox.p2.metadata,2.0.0.v20100601,"org.eclipse.equinox.p2.metadata",1350121260039
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.1.0.v20100513,"org.eclipse.equinox.p2.metadata.repository",1350121260064
+started,bundle,org.eclipse.equinox.p2.operations,2.0.0.v20100510,"org.eclipse.equinox.p2.operations",1350121260105
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.0.v20100525,"org.eclipse.equinox.p2.reconciler.dropins",1350121260134
+started,bundle,org.eclipse.equinox.p2.repository,2.0.0.v20100519,"org.eclipse.equinox.p2.repository",1350121260182
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20100507-1815,"org.eclipse.equinox.p2.ui.sdk.scheduler",1350121260208
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.100.v20100503a,"org.eclipse.equinox.p2.updatechecker",1350121260223
+started,bundle,org.eclipse.equinox.preferences,3.3.0.v20100503,"org.eclipse.equinox.preferences",1350121260224
+started,bundle,org.eclipse.equinox.registry,3.5.0.v20100503,"org.eclipse.equinox.registry",1350121260225
+started,bundle,org.eclipse.equinox.security,1.0.200.v20100503,"org.eclipse.equinox.security",1350121260274
+started,bundle,org.eclipse.equinox.util,1.0.200.v20100503,"org.eclipse.equinox.util",1350121260275
+started,bundle,org.eclipse.help,3.5.0.v20100524,"org.eclipse.help",1350121260316
+started,bundle,org.eclipse.jem.util,2.1.0.v201005130500,"org.eclipse.jem.util",1350121260351
+started,bundle,org.eclipse.jface,3.6.0.I20100601-0800,"org.eclipse.jface",1350121260352
+started,bundle,org.eclipse.jsch.core,1.1.200.I20100505-1245,"org.eclipse.jsch.core",1350121260368
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.100.v20100526-0800,"org.eclipse.ltk.core.refactoring",1350121260406
+started,bundle,org.eclipse.mylyn.commons.net,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.net",1350121260407
+started,bundle,org.eclipse.mylyn.monitor.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.monitor.ui",1350121260408
+started,bundle,org.eclipse.php.core,2.2.0.v20100616-1900,"org.eclipse.php.core",1350121260433
+started,bundle,org.eclipse.php.debug.core,2.2.0.v20100616-1900,"org.eclipse.php.debug.core",1350121260434
+started,bundle,org.eclipse.php.debug.ui,2.2.0.v20100616-1900,"org.eclipse.php.debug.ui",1350121260434
+started,bundle,org.eclipse.php.server.core,2.2.0.v20100616-1900,"org.eclipse.php.server.core",1350121260456
+started,bundle,org.eclipse.php.ui,2.2.0.v20100616-1900,"org.eclipse.php.ui",1350121260456
+started,bundle,org.eclipse.search,3.6.0.v20100520-0800,"org.eclipse.search",1350121260473
+started,bundle,org.eclipse.team.core,3.5.100.I20100527-0800,"org.eclipse.team.core",1350121260474
+started,bundle,org.eclipse.ui,3.6.0.I20100603-1100,"org.eclipse.ui",1350121260475
+started,bundle,org.eclipse.ui.editors,3.6.0.v20100520-0800,"org.eclipse.ui.editors",1350121260475
+started,bundle,org.eclipse.ui.forms,3.5.0.v20100427,"org.eclipse.ui.forms",1350121260476
+started,bundle,org.eclipse.ui.ide,3.6.0.I20100601-0800,"org.eclipse.ui.ide",1350121260478
+started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1350121260507
+started,bundle,org.eclipse.ui.views,3.5.0.I20100527-0800,"org.eclipse.ui.views",1350121260520
+started,bundle,org.eclipse.ui.workbench,3.6.0.I20100603-1100,"org.eclipse.ui.workbench",1350121260538
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.0.v20100520-0800,"org.eclipse.ui.workbench.texteditor",1350121260582
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1350121260616
+started,bundle,org.eclipse.wst.common.emf,1.2.0.v201005200700,"org.eclipse.wst.common.emf",1350121260636
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.0.v201004110600,"org.eclipse.wst.common.emfworkbench.integration",1350121260661
+started,bundle,org.eclipse.wst.common.frameworks,1.2.0.v201003040800,"org.eclipse.wst.common.frameworks",1350121260702
+started,bundle,org.eclipse.wst.common.modulecore,1.2.0.v201005200200,"org.eclipse.wst.common.modulecore",1350121260712
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.100.v201005190114,"org.eclipse.wst.common.project.facet.core",1350121260736
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1350121260764
+started,bundle,org.eclipse.wst.css.core,1.1.400.v201005261534,"org.eclipse.wst.css.core",1350121260765
+started,bundle,org.eclipse.wst.css.ui,1.0.500.v201004290328,"org.eclipse.wst.css.ui",1350121260766
+started,bundle,org.eclipse.wst.dtd.core,1.1.400.v201004290328,"org.eclipse.wst.dtd.core",1350121260768
+started,bundle,org.eclipse.wst.dtd.ui,1.0.500.v201004290328,"org.eclipse.wst.dtd.ui",1350121260769
+started,bundle,org.eclipse.wst.html.core,1.1.400.v201005261534,"org.eclipse.wst.html.core",1350121260769
+started,bundle,org.eclipse.wst.html.ui,1.0.500.v201006030742,"org.eclipse.wst.html.ui",1350121260794
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1350121260797
+started,bundle,org.eclipse.wst.jsdt.core,1.1.0.v201006030738,"org.eclipse.wst.jsdt.core",1350121260797
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.200.v201004150600,"org.eclipse.wst.jsdt.manipulation",1350121260812
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.0.v201005200157,"org.eclipse.wst.jsdt.ui",1350121260815
+started,bundle,org.eclipse.wst.jsdt.web.core,1.0.300.v201004150625,"org.eclipse.wst.jsdt.web.core",1350121260816
+started,bundle,org.eclipse.wst.jsdt.web.ui,1.0.300.v201006030742,"org.eclipse.wst.jsdt.web.ui",1350121260816
+started,bundle,org.eclipse.wst.sse.core,1.1.500.v201006020308,"org.eclipse.wst.sse.core",1350121260817
+started,bundle,org.eclipse.wst.sse.ui,1.2.0.v201006030742,"org.eclipse.wst.sse.ui",1350121260862
+started,bundle,org.eclipse.wst.validation,1.2.200.v201005271900,"org.eclipse.wst.validation",1350121260863
+started,bundle,org.eclipse.wst.xml.core,1.1.500.v201005271618,"org.eclipse.wst.xml.core",1350121260915
+started,bundle,org.eclipse.wst.xml.ui,1.1.100.v201006030742,"org.eclipse.wst.xml.ui",1350121260984
+started,bundle,org.eclipse.wst.xsl.core,1.1.0.v201004290328,"org.eclipse.wst.xsl.core",1350121260985
+started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1350121260986
+os,sysinfo,,,"win32",1350121260990
+arch,sysinfo,,,"x86",1350121260990
+ws,sysinfo,,,"win32",1350121260990
+locale,sysinfo,,,"en_US",1350121260990
+processors,sysinfo,,,"2",1350121260990
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1350121260990
+java.runtime.version,sysinfo,,,"1.7.0_07-b11",1350121260990

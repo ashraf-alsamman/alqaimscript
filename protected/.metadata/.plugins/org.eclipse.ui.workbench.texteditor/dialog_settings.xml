@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="305" key="DIALOG_WIDTH"/>
+		<item value="332" key="DIALOG_Y_ORIGIN"/>
+		<item value="442" key="DIALOG_HEIGHT"/>
+		<item value="390" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="We are waiting for approval from" key="selection"/>
+		<list key="findhistory">
+			<item value="We are waiting for approval from"/>
+			<item value="DeleteGameFromTeam"/>
+			<item value="MakeTeamAdmin"/>
+			<item value="admin"/>
+			<item value="un admin"/>
+			<item value="FromTeam"/>
+			<item value="ajax"/>
+			<item value="ManageMembers"/>
+		</list>
+		<list key="replacehistory">
+			<item value="MyTeam"/>
+			<item value="$model_id"/>
+			<item value="$maker_id"/>
+			<item value="20"/>
+			<item value="$data"/>
+			<item value="$enemy_id"/>
+			<item value="$enamy_id"/>
+			<item value="$friend_id"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="275" key="DIALOG_Y_ORIGIN"/>
+		<item value="492" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>
